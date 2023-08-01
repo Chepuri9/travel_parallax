@@ -11,7 +11,7 @@ body {
 }
 
 .img1 {
-    background-image: url("https://ibb.co/qNr0CSs");
+    background-image: url("./img/0.jpg");
     min-height: 100%;
     background-repeat: no-repeat;
     position: relative;
@@ -20,17 +20,17 @@ body {
 }
 
 .img2 {
-    background-image: url("https://ibb.co/cJr83vp");
+    background-image: url("./img/1.jpg");
     min-height: 800px;
 }
 
 .img3 {
-    background-image: url("https://ibb.co/Q6DvzLD");
+    background-image: url("./img/2.jpg");
     min-height: 800px;
 }
 
 .img4 {
-    background-image: url("https://ibb.co/hD30c3c");
+    background-image: url("./img/5.jpg");
     min-height: 800px;
 }
 
